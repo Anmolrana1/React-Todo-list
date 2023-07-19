@@ -1,0 +1,17 @@
+.Header{
+    font-family: cursive;
+    font-size: xx-large;
+    font-weight: 900;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.TodoItem{
+    width: 35%;
+    height: 3em;
+    margin-left: 1rem;
+    font-family: cursive;
+    font-size: x-large;
+}
+#TodoItemButton:active{
+    background-color: rgb(64, 160, 64);
+}

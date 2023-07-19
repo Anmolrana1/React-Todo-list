@@ -1,0 +1,57 @@
+.InsertData{
+    margin-top: 5rem;
+    font-size: x-large;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: cursive;
+  }
+  #NumberDiv{
+    margin-top: 2rem;
+    font-family: cursive;
+    font-size: x-large;
+  }
+  #TodoData{
+    width: 55%;
+    border: 1px solid rgb(192, 128, 128);
+    height: 3rem;
+    box-shadow: 10px 5px 6px 3px rgb(165, 172, 127);
+    border-radius: 8px;
+    text-align: center;
+  }
+  .selected{
+    background-color: rgb(139, 129, 110);
+    opacity: 0.7;
+  }
+  .Unselected {
+    background-color: rgb(251, 251, 253);
+  }
+  .TodoButton{
+    height: 3rem;
+    box-shadow: 10px 5px 6px 3px rgb(167, 159, 159);
+    border-radius: 8px;
+    margin-left: 3px;
+    color:rgb(10, 0, 0);
+    font-size: x-large;
+    font-family: cursive;
+  }
+  #upButton{
+    background-color: rgb(224, 224, 43);
+  }
+  #upButton:hover{
+    background-color: rgb(158, 158, 15);
+  }
+  #downButton{
+    background-color: rgb(100, 182, 100);
+  }
+  #downButton:hover{
+    background-color: rgb(50, 117, 50);
+  }
+  #deleteButton{
+    background-color: rgb(187, 61, 61);
+  }
+  #deleteButton:hover{
+    background-color: rgb(143, 55, 55);
+  }
+  
+  
